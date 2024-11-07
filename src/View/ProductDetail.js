@@ -19,10 +19,6 @@ const CardTitle = styled(Card.Title)`
     text-align: center;
 `;
 
-const CardText = styled(Card.Text)`
-    text-align: center;
-`;
-
 const CardImg = styled(Card.Img)`
     margin-top: 20px;
     align-self: center;
